@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction to SQL
 
 The basics of Structured Query Language, a relatively simple query language.
@@ -156,3 +157,7 @@ If you need one more stretch goal - the RPG data was generated using
 [django-autofixture](https://github.com/volrath/django-autofixture), a tool that
 facilitates tests by randomly generating data. Check it out, and if you got
 Django working, see if you can generate more data.
+=======
+# ds3_module1
+Some calls and procedures for SQL
+>>>>>>> 20dccc33e086e2909719e4caeb1c5b19f1676f30
