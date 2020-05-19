@@ -1,7 +1,8 @@
-
+# rgb_query_by_all.py
 import os
 import sqlite3
 import pandas as pd
+
 # construct a path to wherever your database exists
 DB_FILEPATH = "rpg_db.sqlite3"
 
